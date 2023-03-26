@@ -43,7 +43,7 @@ Requires the following dependencies:
 
 ### Reports
 
--   **POST**/reports/:status` - List all the reports for all patients with the given status. The reports are sorted from oldest to newest.
+-   **POST**`/reports/:status` - List all the reports for all patients with the given status. The reports are sorted from oldest to newest.
 
 ## Deployment
 
