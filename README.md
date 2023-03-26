@@ -44,3 +44,8 @@ Requires the following dependencies:
 ### Reports
 
 -   **GET** `/reports/:status` - List all the reports for all patients with the given status. The reports are sorted from oldest to newest.
+
+## Deployment
+
+Link - https://hospital-a16z.onrender.com
+
